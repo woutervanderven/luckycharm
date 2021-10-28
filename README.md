@@ -2,4 +2,4 @@
 Meant to explore the three.js javascript library.
 
 ## Demo through Github Pages
-[Demo](https://woutervanderven.github.io/luckycharm/)
+[Demo](https://woutervanderven.github.io/luckycharm/){:target="_blank"}
